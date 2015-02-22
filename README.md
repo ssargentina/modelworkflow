@@ -1,3 +1,5 @@
+MOVED TO https://bitbucket.org/smartsoftware/modelworkflow
+
 Model Workflow for Laravel
 ==========================
 This package provide a workflow for laravel models, like a FSM for model states (defined by a model attribute)
